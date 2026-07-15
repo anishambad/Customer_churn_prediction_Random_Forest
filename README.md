@@ -4,6 +4,8 @@ A machine learning web application that predicts whether a telecom customer is l
 
 ---
 
+Link : https://customer-churn-prediction-model-by-anishambad.streamlit.app/
+
 ## 📝 Description
 
 Customer churn is one of the biggest challenges faced by telecom companies. Identifying customers who are likely to churn allows businesses to take proactive retention measures. This app uses a **Random Forest Classifier** trained on historical telecom customer data to predict churn in real time based on user-provided inputs.
@@ -109,7 +111,7 @@ http://localhost:8501
 
 | Home Page | Prediction Result |
 |-----------|-------------------|
-| ![Home Page](screenshots/home.png) | ![Prediction Result](screenshots/result.png) |
+| ![Home Page]("C:\Users\anish\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 154357.png") | ![Prediction Result]("C:\Users\anish\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 154420.png") |
 
 ---
 
