@@ -107,11 +107,11 @@ http://localhost:8501
 
 ## 🖼️ Screenshots
 
-> _Add screenshots of your app here to showcase the UI and predictions._
+
 
 | Home Page | Prediction Result |
 |-----------|-------------------|
-| ![Home Page]("C:\Users\anish\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 154357.png") | ![Prediction Result]("C:\Users\anish\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 154420.png") |
+| ![Home Page](""C:\Users\anish\OneDrive\Pictures\Screenshots\deploy.png"") | ![Prediction Result](""C:\Users\anish\OneDrive\Pictures\Screenshots\home_page.png"") |
 
 ---
 
