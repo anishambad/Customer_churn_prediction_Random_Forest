@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/customer-churn-prediction-app.git
+git clone https://github.com/anishambad/customer-churn-prediction-app.git
 
 # 2. Navigate into the project directory
 cd customer-churn-prediction-app
