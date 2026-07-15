@@ -111,7 +111,7 @@ http://localhost:8501
 
 | Home Page | Prediction Result |
 |-----------|-------------------|
-| ![Home Page](""C:\Users\anish\OneDrive\Pictures\Screenshots\deploy.png"") | ![Prediction Result](""C:\Users\anish\OneDrive\Pictures\Screenshots\home_page.png"") |
+| ![Home Page]("screenshots/home.png") | ![Prediction Result]("screenshots/after_prediction.png") |
 
 ---
 
