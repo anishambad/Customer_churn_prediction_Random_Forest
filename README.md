@@ -111,7 +111,7 @@ http://localhost:8501
 
 | Home Page | Prediction Result |
 |-----------|-------------------|
-| ![Home Page]("screenshots/home.png") | ![Prediction Result]("screenshots/after_prediction.png") |
+| ![Home Page](screenshots/home.png) | ![Prediction Result](screenshots/after_prediction.png) |
 
 ---
 
